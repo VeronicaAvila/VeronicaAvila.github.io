@@ -1,15 +1,43 @@
+.container-height{ 
+height:90%; 
+}
+
+.full-page{
+	height:90%;
+}
+
 body{ 
-background-color: #b5b5b7;
-background-image: url(../image/immigrantmarch2006.png);
-background-size: cover;
+background-color: white;
  }
 
  .nav{
-background-color: #e8edf3
+background-color: white
 }
 
  .nav-color{
 	color: #f2b632;
 }
 
+.fullpage{
+	height:100%;
+}
 
+.vcenter{
+	margin-top:auto;
+	margin-bottom: auto;
+}
+
+h1{
+	display: block;
+    font-size: 8em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: oblique;
+	color: #431c5d; 
+}
+
+.hidden {
+	opacity: 0
+	}
