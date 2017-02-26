@@ -1,0 +1,65 @@
+
+body{ 
+background-color: #b5b5b7;
+ }
+
+h1{ color: #30302f
+}
+
+.rounded-circle{
+	max-width:100%;
+}
+
+.nav{
+background-color: #e8edf3
+}
+
+.nav-color{
+	color: #f2b632;
+}
+
+.card-header{ 
+ background-color: #e8edf3}
+
+.card{ 
+margin-top: 9px;
+margin-bottom: 9px;
+background-color: #e8edf3;
+border: 2px;
+border-radius: 5px;
+}
+
+.profile-name{
+	color: #677077;
+}
+
+.hr {
+    display: block;
+}
+
+.dislikes-color {
+	color: #252839;
+}
+
+ .icon {
+ 	padding-left: 7px
+ 	padding-right: 7px;
+ }
+
+ .progress {
+ 	margin-top: 5px;
+ 	margin-bottom: 5px;
+ }
+
+ .socialicon:hover {
+ 	text-decoration: none;
+ 	color: #f2b632;
+ }
+
+ .experience-background {
+ 	background-color: #e8edf3;
+ 	border-radius: 25px;
+    padding: 20px;  
+}
+	
+
